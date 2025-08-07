@@ -17,7 +17,10 @@ while True: #BUCLE PARA VOLVER A JUGAR
     print("1 jugador")
     print("2 jugadores")
     modo = input("Ingrese la opción de juego: ")
-
+    vidas = 3 
+    while vidas > 0 
+    print("el juego continua")
+    vidas -= 1
     # 2. Lógica según modo de juego
     if modo == "1 jugador":
         print("Jugar contra la máquina")
