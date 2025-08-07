@@ -1,4 +1,10 @@
 # AUTONOMO-2
+
+
+
+
+
+
 import random #Este código elige aleatoriamente una opción para la máquina en el juego
 
 # Opciones válidas
